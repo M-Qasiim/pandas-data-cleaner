@@ -1,3 +1,5 @@
+## ⭐ If you found this helpful, consider starring the repo!
+
 # Titanic Data Cleaner 🧹
 
 A Python script that automatically cleans messy CSV data.
@@ -25,4 +27,3 @@ python data_cleaner.py
 | Cabin    | 687           | 0       |
 | Embarked | 2             | 0       |
 
-## ⭐ If you found this helpful, consider starring the repo!
